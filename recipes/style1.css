@@ -1,0 +1,27 @@
+body{
+
+    background-color: #fdf0d5;
+}
+
+h1.cch1{
+    text-align: center;
+    border-bottom: #780000 solid;
+    color: #c1121f;
+    padding: 10px 0;
+}
+
+.ccimg{
+    height: 25rem;
+    width: 25rem;
+    align-content: center;
+
+    margin: 0;
+    padding: 0;
+    border-bottom: 10px solid #780000;
+    color: #c1121f;
+
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 20px;
+}
